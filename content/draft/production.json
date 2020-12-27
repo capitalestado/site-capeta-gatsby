@@ -1,0 +1,12 @@
+{
+  "path": "/production",
+  "title": "Produção",
+  "pageType": "list",
+  "listType": "post",
+  "hero": {
+    "image": "../images/ditadura-militar.jpg",
+    "large": true,
+    "overlay": true,
+    "headline": "Artigos, Podcasts e Vídeos"
+  }
+}

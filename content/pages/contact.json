@@ -1,0 +1,44 @@
+{
+  "title": "Contact",
+  "path": "/contact",
+  "hero": {
+    "headline": "Contact Our Staff",
+    "textline": "Sign up for an exclusive newletter sent to your inbox, send us some feedback about the blog or even just drop us a line.",
+    "image": "../images/about-banner.jpg",
+    "large": false
+  },
+  "blocks": [
+    {
+      "_template": "TitleBlock",
+      "title": "",
+      "underline": true,
+      "content": ""
+    },
+    {
+      "_template": "FormBlock",
+      "name": "Formulário de Contato",
+      "fields": [
+        {
+          "label": "Nome",
+          "inputType": "text",
+          "autocomplete": "name",
+          "_template": "nameInputBlock"
+        },
+        {
+          "label": "Email",
+          "inputType": "text",
+          "autocomplete": "email",
+          "_template": "emailInputBlock"
+        },
+        {
+          "label": "Mensagem",
+          "inputType": "textarea",
+          "autocomplete": "",
+          "_template": "messageInputBlock"
+        }
+      ],
+      "content": ""
+    }
+  ],
+  "displayTitle": true
+}

@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "name": "Lucas Santos",
+      "id": "lucasa",
+      "email": "lucasa@gmail.com",
+      "link": "https://lucasa.dev"
+    },
+    {
+      "name": "Ricardo Camera",
+      "id": "ricardo-camera",
+      "email": "ricardo.camera@gmail.com",
+      "link": "mailto:ricardo.camera@gmail.com"
+    },
+    {
+      "name": "CAPETA Team",
+      "id": "capeta",
+      "email": "",
+      "link": ""
+    }
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/authors.json"
+  }
+}

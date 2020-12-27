@@ -1,0 +1,31 @@
+{
+  "menuItems": [
+    {
+      "label": "Home",
+      "link": "/"
+    },
+    {
+      "label": "Sobre",
+      "link": "/about"
+    },
+    {
+      "label": "Produções",
+      "link": "/production"
+    },
+    {
+      "label": "Cursos",
+      "link": "/courses"
+    },
+    {
+      "label": "Blog",
+      "link": "/blog"
+    },
+    {
+      "label": "Contato",
+      "link": "/contact"
+    }
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/menu.json"
+  }
+}
