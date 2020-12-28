@@ -37,12 +37,12 @@ module.exports = {
           {
             resolve: "gatsby-tinacms-git",
             options: {
-              pathToRepo: "https://github.com/capitalestado/site-capeta",
+              pathToRepo: "https://github.com/capitalestado/site-capeta-gatsby.git",
               pathToContent: "content/posts",
-              defaultCommitMessage: "Edited with TinaCMS",
+              defaultCommitMessage: "atualização do tina",
               defaultCommitName: "CAPETA",
               defaultCommitEmail: "capitalestado@gmail.com",
-              pushOnCommit: false,
+              pushOnCommit: true,
             },
           },
         ],

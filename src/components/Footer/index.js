@@ -10,7 +10,7 @@ export const Footer = styled(({ ...styleProps }) => {
         © {new Date().getFullYear()} – Built with
         {` `}
         <a href="https://www.gatsbyjs.org">Gatsby</a> and{" "}
-        <a href="https://www.tinacms.org">Tina</a> <span>by </span>
+        <a href="https://www.tinacms.org">Tina</a> <span>by Lucas Santos</span>
       </Wrapper>
     </footer>
   )

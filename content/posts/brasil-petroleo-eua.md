@@ -1,10 +1,12 @@
 ---
-title: O curioso caso do país autossuficiente em petróleo que, após operação feita por juízes treinados nos EUA, passa a comprar combustível de americanos
+title: >-
+  O curioso caso do país autossuficiente em petróleo que, após operação feita
+  por juízes treinados nos EUA, passa a comprar combustível de americanos
 type: post
 authors:
-  - lucasa
-draft: true
-date: "2018-05-31T00:00:00.000Z"
+  - capeta
+draft: false
+date: '2018-05-31T00:00:00.000Z'
 path: /blog/brasil-petroleo-eua
 hero:
   image: ../images/michel-temer-cumprimenta-pedro-parente.jpg
@@ -12,11 +14,9 @@ hero:
   overlay: true
 ---
 
+* Assinado por toda a equipe do CAPETA.
+* Organizadores: Augusto Colório, Marina Rossetto e Pedro Guedes.
 
-## O curioso caso do país autossuficiente em petróleo que, após operação feita por juízes treinados nos EUA, passa a comprar combustível de americanos
-
-Assinado por toda a equipe do CAPETA.
-Organizadores: Augusto Colório, Marina Rossetto e Pedro Guedes.
 
 Como já se tem confirmado nos últimos dias, a causa do aumento dos preços dos combustíveis – e da consequente greve dos caminhoneiros – aconteceu graças as mudanças adotadas pelo presidente do governo ilegítimo Michel Temer e o interventor nomeado Pedro Parente frente às políticas de preço da Petrobras. Essa nova política transformou a empresa estatal mais estratégica do Brasil em uma exportadora de óleo cru e importadora de derivados – a antiga história das trocas desiguais entre o centro e a periferia do Sistema Internacional.  Mas afinal de contas, o que é a política de preços da Petrobrás e quais foram as mudanças implantadas pela gestão Parente?
 
